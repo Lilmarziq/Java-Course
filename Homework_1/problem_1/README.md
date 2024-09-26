@@ -5,7 +5,7 @@ Student ID: -
 Study course: ESE  
   
 Link to Github :
-<https://github.com/Lilmarziq/Java-Course/tree/main/Homework_1>  
+<https://github.com/Lilmarziq/Java-Course/tree/main/Homework_1/problem_1>  
   
 \## Environment  
   
